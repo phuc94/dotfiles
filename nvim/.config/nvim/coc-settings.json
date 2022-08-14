@@ -1,0 +1,5 @@
+{
+  "colors.filetypes": ["*"],
+  "snippets.ultisnips.enable": false,
+  "highlight.colors.enable": false
+}
